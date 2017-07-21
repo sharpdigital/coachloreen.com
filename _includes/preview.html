@@ -4,7 +4,7 @@
       <div class="preview-panel">
         <!-- {{ item.type }} -->
         {% if item.type != 'page' %}
-        <a href="{{ item.slug | prepend: '/' | prepend: item.type | prepend: site.github.url | append: '/' }}">
+        <a href="{{ item.slug | prepend: '/' | prepend: item.type | prepend: '/' | prepend: site.github.url | append: '/' }}">
         {% else %}
         <a href="{{ item.slug | prepend: site.github.url }}">
         {% endif %}
