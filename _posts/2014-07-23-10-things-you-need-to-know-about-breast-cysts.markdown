@@ -1,6 +1,7 @@
 ---
 slug: 10-things-you-need-to-know-about-breast-cysts
 title: '10 Things you need to know about breast cysts'
+type: blog
 date: '2014-07-23'
 image: /assets/SMxXloOCukQeoi4iMI8mY.jpeg
 intro: 'The recent discovery of an unusual lumpy mass in my right breast had me running superfast to my doctors who referred me to the hospital for a scan.  I got an appointment very quickly and the scan identified the lumpy mass to be hormonal cysts. Nothing to worry about, no real definitive causes and no real cures according to the consultants but the holistic warrior in me wanted to know more so I dug further. Here are 10 things you should know about unusual lumps in your breasts:'
@@ -11,9 +12,9 @@ layout: post
 
 ---
 
-1. Breast cysts are fluid-filled sacs and are common in women aged 35-50 years (although younger women and men can also get them) 
-1. Although no specific causes can be cited for definite, hormonal changes in the body are thought to be the most common cause of benign (i.e. non-cancerous) lumps in breasts 
-1. Benign breast lumps do not increase your risk of nor develop into breast cancer 
+1. Breast cysts are fluid-filled sacs and are common in women aged 35-50 years (although younger women and men can also get them)
+1. Although no specific causes can be cited for definite, hormonal changes in the body are thought to be the most common cause of benign (i.e. non-cancerous) lumps in breasts
+1. Benign breast lumps do not increase your risk of nor develop into breast cancer
 1. Some people with cysts may not feel any symptoms and others may feel symptoms ranging from pain in either breast, sunken nipples, dimpling on the skin of the breast, a rash on or around the nipple or a change in the size of  the breast
 1. The size of the cysts vary from miniscule to several centimetres in diameter. It is also possible to have one or several cysts in one or both breasts
 1. Screening is a simple process involving an ultrasound scan, mammogram and in some cases inspiration of the cyst (where sample tissue is taken and further examined)

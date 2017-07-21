@@ -1,6 +1,7 @@
 ---
 slug: am-i-a-better-adult-because-my-parents-micro-managed-me-as-a-kid
 title: 'Am I a better adult because my parents micro-managed me as a kid?'
+type: blog
 date: '2016-03-16'
 image: null
 intro: "\nAs parents, our over riding instinct is to keep our little creation safe. We gasp and reach to catch them at the slightest tumble. We sit and do their school project with them so they’re not that kid carrying a bag of hot mess to school..."
@@ -13,7 +14,7 @@ layout: post
 Am I a better adult because my parents micro-managed me as a kid?
 
 As parents, our over riding instinct is to keep our little creation safe. We gasp and reach to catch them at the slightest tumble. We sit and do their school project with them so they’re not that kid carrying a bag of hot mess to school. We say no when, aged 4, they ask to help cook dinner, because it’s not safe! We keep the TV off so as not to ruin their brain development. We tell them what they must eat to keep them healthy and insist they put more layers on when we feel it’s too cold outside for what they have chosen to wear. But is any of this bad? Or is it exactly your duty as mummy/daddy?
-I spent the first decade of my life being raised by a veritable whole village. I had no mum/dad but many I could count on as a parent. 
+I spent the first decade of my life being raised by a veritable whole village. I had no mum/dad but many I could count on as a parent.
 
 Collectively, this village taught me to be independent, entrepreneurial, loving, resilient, fun loving and brave. The second decade of my life was spent with the woman who gave birth to me. Her approach to parenting definitely fell into the micro-managed category. Every aspect of my life was so accounted for that I actually had a timetable of what I was supposed to be doing from the moment I woke up right up until the minute I went to bed.
 I left home at 18 as I couldn’t tolerate the tyranny any longer. I look back on my college years as a time of chaos, fog and being almost goalless. My closest friends had parents who gave them a certain level of freedom and autonomy, underpinned by firm guidance on planning for their future. These friends, rather than abusing the freedom given to them by their parents, led balanced lives where they would party hard, after studying hard and putting in a shift in their weekend jobs. This observation imprinted in my mind solidly.

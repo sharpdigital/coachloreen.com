@@ -1,6 +1,7 @@
 ---
 slug: how-the-recent-backlash-against-clean-eating-is-a-beautiful-example-of-the
 title: 'How the recent backlash against ‘clean eating’ is a beautiful example of the politics of envy'
+type: blog
 date: '2016-03-15'
 image: /assets/3BOPMRkj6EQoQQMKUmcqGe.jpeg
 intro: 'Clean eating this. Kale that. Is it really good for everyone to eat like this? Opinion is slowly changing.'
@@ -29,6 +30,6 @@ Remember the whole hype about kale, yes that so-called superfood you had to make
 Sugar is your enemy! Sugar is satan! Sugar is poison. This is the new mass believe being pushed that I fully cannot abide. I have an upcoming post on the sugar backlash so I won’t go into it now. Point being, we were encouraged to eat a diet high in sugar for years and now we’re being told it’s the cause of everything that’s wrong with our health. OK then
 You get the idea. Today’s biggest health movement can become next year’s biggest thing that makes everyone peep out of their hands and squirm and deny that they followed such a foolish notion. This is exactly what appears to be happening with clean eating this week. The very doyennes of the movement are fully distancing themselves of it. Oh no! We didn’t say you should do blah… We were just sharing what worked for us. Yah. And so those of us who were fully jealous of all the money and fame they were enjoying, from their many posts as ‘experts’ on better health, clap our hands in glee and indulge in a little schadenfreude.
 
-I’m not being too smug mind you. The logic behind the fad was fairly sound but over time has been shown to affect people in quite negative ways. Some claim it fuelled their anorexia, some claimed it messed them up as these blogs just made them feel even worse about themselves. I personally identified with the philosophy because of my own intolerances to certain foods. 
+I’m not being too smug mind you. The logic behind the fad was fairly sound but over time has been shown to affect people in quite negative ways. Some claim it fuelled their anorexia, some claimed it messed them up as these blogs just made them feel even worse about themselves. I personally identified with the philosophy because of my own intolerances to certain foods.
 
 But I’m not one for moving with the crowd. I also believe you should seek alternative views to every view you come across and keep an open mind. Then you are not a slave to one way of thinking. Saving yourself much embarrassment when there is a sea change of public opinion as the masses take up a new cause celebre. Anyway, happy eating! (where’s that krispy kreme at?)

@@ -1,6 +1,7 @@
 ---
 slug: survive-the-high-pollen-summer-with-this-easy-guide-to-hayfever
 title: 'SURVIVE THE HIGH POLLEN SUMMER WITH THIS EASY GUIDE TO HAYFEVER'
+type: blog
 date: '2014-06-23'
 image: /assets/6QyH7kRY3YM2a6m4qs4GqK.jpeg
 intro: "I used to watch my younger sister every year, suffering with wretched symptoms of hayfever and feel so bad for her. Her eyes would literally puff up like a frog from the constant itch scratch cycle and then she would constantly slap at her ears to try and relieve the itching in her inner ear canal. Then when I was in my early 20s, I also started experiencing this miserable condition.\n"
